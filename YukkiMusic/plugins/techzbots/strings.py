@@ -6,9 +6,9 @@ BOT_USERNAME = app.username
 START_TEXT = f"""
 🧘‍♀️ **ʜʏ  MENTION **
 
-**ɪ ᴀ ᴍ ᴠɪʙᴇs ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʟᴀɢ ғʀᴇᴇ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ 
+**ɪ ᴀᴍ ▊𝗩𝗜𝗕𝗘𝗦🎧𝗠𝗨𝗦𝗜𝗖▊♬࿐ ʟᴀɢ ғʀᴇᴇ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ 
 
-🍷 **🍷⭐【🇸  𝗨 𝗣 𝗣 𝗢 𝗥 𝗧 】⭐🍷
+ **🍷⭐【🇸  𝗨 𝗣 𝗣 𝗢 𝗥 𝗧 】⭐🍷
 
 █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█ 【⚡ @TAMIL_CHATBOX ⚡】 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
@@ -16,7 +16,7 @@ START_TEXT = f"""
 """
 
 COMMANDS_TEXT = f"""
-✨ **ʜᴇʟʟᴏ MENTION !**
+❤️ **ʜᴇʟʟᴏ MENTION !**
 
 **Click on the buttons below to know my commands.**
 """
