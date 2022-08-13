@@ -176,17 +176,17 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
     buttons = [
         [
             InlineKeyboardButton(
-                text="🎵 Play Audio",
+                text="🎵 ᴀ ᴜ ᴅ ɪ ᴏ",
                 callback_data=f"YukkiPlaylists {videoid}|{user_id}|{ptype}|a|{channel}|{fplay}",
             ),
             InlineKeyboardButton(
-                text="🎥 Play Video",
+                text="🎥 ᴠ ɪ ᴅ ᴇ ᴏ",
                 callback_data=f"YukkiPlaylists {videoid}|{user_id}|{ptype}|v|{channel}|{fplay}",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="🗑 Close",
+                text="🗑 ᴄ ʟ ᴏ s ᴇ",
                 callback_data=f"forceclose {videoid}|{user_id}",
             ),
         ],
