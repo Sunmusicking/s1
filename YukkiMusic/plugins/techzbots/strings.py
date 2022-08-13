@@ -4,15 +4,19 @@ from config import MUSIC_BOT_NAME as BOT_NAME
 
 BOT_USERNAME = app.username
 START_TEXT = f"""
-👀 **𝙷𝙴𝙻𝙻𝙾  MENTION !**
+🧘‍♀️ **ʜʏ  MENTION **
 
-**𝙸𝙰𝙼 🎸[{BOT_NAME}](https://t.me/{BOT_USERNAME} 𝙻𝙰𝙶 𝙵𝚁𝙴𝙴 𝙼𝚄𝚂𝙸𝙲 𝙱𝙾𝚃**
+**ɪ ᴀ ᴍ ᴠɪʙᴇs ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʟᴀɢ ғʀᴇᴇ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ 
 
-🍷 **Find out all the Bot's commands and how they work by clicking on the ➤ 📚 Commands button**
+🍷 **🍷⭐【🇸  𝗨 𝗣 𝗣 𝗢 𝗥 𝗧 】⭐🍷
+
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█ 【⚡ @TAMIL_CHATBOX ⚡】 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█ 【⚡ @TAMIL_CHATFUN ⚡】 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█**
 """
 
 COMMANDS_TEXT = f"""
-✨ **Hello MENTION !**
+✨ **ʜᴇʟʟᴏ MENTION !**
 
 **Click on the buttons below to know my commands.**
 """
@@ -21,10 +25,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
     [   
         [
             InlineKeyboardButton(
-                text="📚 Commands", callback_data="command_menu"
+                text="📚 ᴄ ᴏ ᴍ ᴍ ᴀ ɴ ᴅ s", callback_data="command_menu"
             ),
             InlineKeyboardButton(
-                text="🔧 Settings", callback_data="settings_helper"
+                text="🔧 s ᴇ ᴛ ᴛ ɪ ɴ ɢ s", callback_data="settings_helper"
             ),                                   
         ],
         [
@@ -41,12 +45,12 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
 START_BUTTON_PRIVATE = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="🐾 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🐾", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
+                text="🍷 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🍷", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
             ),            
         ],
         [   
             InlineKeyboardButton(
-                text="🍷 ᴄ ᴏ ᴍ ᴍ ᴀ ɴ ᴅ s", callback_data="command_menu"
+                text=" ᴄ ᴏ ᴍ ᴍ ᴀ ɴ ᴅ s", callback_data="command_menu"
             ),                       
         ],
         [
@@ -63,18 +67,18 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
 COMMANDS_BUTTON_USER = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="Admin Commands", callback_data="admin_cmd"
+                text="ᴀᴅᴍɪɴ Commands", callback_data="admin_cmd"
             ),
             InlineKeyboardButton(
-                text="Bot Commands", callback_data="bot_cmd"
+                text="ʙᴏᴛ Commands", callback_data="bot_cmd"
             ),            
         ],
         [
             InlineKeyboardButton(
-                text="Play Commands", callback_data="play_cmd"
+                text="ᴘʟᴀʏ Commands", callback_data="play_cmd"
             ),            
             InlineKeyboardButton(
-                text="Extra Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13-2"
+                text="ᴇxᴛʀᴀ Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13-2"
             ),                                   
         ],
         [
