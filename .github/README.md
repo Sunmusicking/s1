@@ -1,6 +1,6 @@
 <h3>⚠️ This repo is just a clone of <a href="https://github.com/TeamYukki/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/TeamYukki/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
 
-<p align="center"><img src="https://telegra.ph/file/e17f42bc195635b668d6d.jpg" alt="ICON" width="80%"/></p>
+<p align="center"><img src="https://telegra.ph/file/8c3196a3a1fc1bf4e1054.mp4" alt="ICON" width="80%"/></p>
 
 # SiestaXMusic
 
