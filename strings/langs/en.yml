@@ -237,22 +237,22 @@ stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 Close"
-CLOSEMENU_BUTTON  : "🗑 Close Menu"
-BACK_BUTTON : "⬅ Back"
-UNBAN_BUTTON : "🗑 Unban Assistant"
+CLOSE_BUTTON  : "❌ᴄ ʟ ᴏ s ᴇ ❌"
+CLOSEMENU_BUTTON  : "❌ᴄʟᴏsᴇ ᴍᴇɴᴜ❌"
+BACK_BUTTON : "⬅ ʙ ᴀ ᴄ ᴋ "
+UNBAN_BUTTON : "🗑 ᴜ ɴ ʙ ᴀ ɴ Assistant"
 
 #Lyrics
 L_B_1 : "🚀 Checkout Lyrics Now"
 
 # Start
-S_B_1 : "🗒 Commands"
-S_B_2 : "🔧 Settings"
-S_B_3 : "📨 Support"
-S_B_4 : "📨 Channel"
-S_B_5 : "✚ Add me to your Group"
-S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Bot Owner"
+S_B_1 : "🗒 ᴄ ᴏ ᴍ ᴍ ᴀ ɴ ᴅs"
+S_B_2 : "🔧 s ᴇ ᴛ ᴛ ɪ ɴ ɢ s"
+S_B_3 : "📨 s ᴜ ᴘ ᴘ ᴏ ʀ ᴛ"
+S_B_4 : "📨 ᴄ ʜ ᴀ ɴ ɴ ᴇ ʟ"
+S_B_5 : "🍷 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ"
+S_B_6 : "💡 Git ʀ ᴇ ᴘ ᴏ"
+S_B_7 : "👑 ᴏ ᴡ ɴ ᴇ ʀ"
 S_B_8 : "🔎 How to Use? Commands Menu."
 
 #Help 
@@ -269,16 +269,16 @@ PM_B_2 : "InlineMarkup"
 PM_B_3 : "ChannelPlay"
 
 #Play
-P_B_1 : "🎵 Play Audio"
-P_B_2 : "🎥 Play Video"
-P_B_3 : "🏮 Start Live Stream"
+P_B_1 : "🎵ᴀ ᴜ ᴅ ɪ ᴏ "
+P_B_2 : "🎥 ᴠ ɪ ᴅ ᴇ ᴏ"
+P_B_3 : "🍷 sᴛᴀʀᴛ ʟɪᴠᴇ sᴛʀᴇᴀᴍ"
 P_B_4 : "🎵 Play Playlist"
 
 #Playlist
 PL_B_1 : "🚀 Play Playlist"
-PL_B_2 : "✚ Playlists"
-PL_B_3 : "✚ Additional"
-PL_B_4 : "📡 Play Mode"
+PL_B_2 : "🎵 ᴘ ʟ ᴀ ʏ ʟ ɪ s ᴛ"
+PL_B_3 : "🎸ᴀ ᴅ ᴅ ɪ ᴛ ɪ ᴏ ɴ ᴀ ʟ"
+PL_B_4 : "💞 ᴘʟᴀʏ ᴍᴏᴅᴇ"
 PL_B_5 : "🔄 Del Whole Playlist"
 PL_B_6 : "↗️ Delete Playlist"
 PL_B_7 : "❗️ Yes, I'm sure. Delete it"
@@ -318,8 +318,8 @@ ST_B_27 : "🧑‍🚀 Suggestion Mode"
 
 #Song
 SG_B_1 : "↗️ Open Private Chat"
-SG_B_2 : "🔊 Audio"
-SG_B_3 : "🎥 Video"
+SG_B_2 : "🔊 ᴀ ᴜ ᴅ ɪ ᴏ"
+SG_B_3 : "🎥 ᴠ ɪ ᴅ ᴇ ᴏ"
 
 #Stats
 SA_B_1 : "📢 Top 10 Chat"
